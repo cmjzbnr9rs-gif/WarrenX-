@@ -223,8 +223,9 @@ form button:hover {
 
 @media (max-width: 600px) { 
     nav a { 
-        display: block;
-        margin: 10px 0;
+        display: inline-block;
+        margin: 5px 4px;
+        font-size: 14px;
     
  }
 
